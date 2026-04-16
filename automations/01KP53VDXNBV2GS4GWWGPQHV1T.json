@@ -1,0 +1,84 @@
+{
+  "version": "2",
+  "flowTitle": "New User Welcome Flow",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "role": {
+            "type": "string",
+            "description": "Input for role"
+          },
+          "email": {
+            "type": "string",
+            "description": "Input for email"
+          },
+          "location": {
+            "type": "string",
+            "description": "Input for location"
+          },
+          "username": {
+            "type": "string",
+            "description": "Input for username"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "b1b2c300-0000-0000-0000-000000000001",
+      "valid": false,
+      "displayName": "Register User in Users & Profiles",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "{{ trigger[\"body\"][\"username\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "3T64NhSxjx1WHT9o"
+          }
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "success": "true"
+            },
+            {
+              "message": "Welcome to Nepalese Hype, {{ trigger[\"body\"][\"username\"] }}! 🇳🇵"
+            },
+            {
+              "role": "{{ trigger[\"body\"][\"role\"] }}"
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ],
+  "variables": {
+    "3T64NhSxjx1WHT9o": {
+      "id": "3T64NhSxjx1WHT9o",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

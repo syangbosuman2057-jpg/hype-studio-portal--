@@ -1,0 +1,1470 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "d1000000-0000-0000-0000-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Orders & Cart"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "91fc3c06-ef1b-435d-a0e3-6da0e3ae73d3",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-0FDZTJ4Z-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5879e4f8-cce1-409a-af9f-54639e30d4d8",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-0FDZTJ4Z-bikash_foods"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "11c5039c-b6dd-4b5c-b949-08729192596d",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-0FDZTJ4Z-bikash_foods"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "8e540ff8-58f3-4324-8aa6-1a05702d77f6",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-KBRWP3-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "cbae1780-ce8a-4731-968a-aa73ac35df0b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-WSYYK6-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "3355ef32-74f6-4f53-88e6-f044cedaaeb4",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-40CM7D-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "c9297d72-1a46-4062-a2ea-7ec5928aa8d5",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-40CM7D-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "68b3e211-e1c2-4c85-8301-045ce10650fc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-4WFC57-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000000-0000-0000-0000-000000000002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-2025-001",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "aarav_sharma",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Dhaka Topi — Traditional Nepali Hat",
+              "@ototal": 850,
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "delivered"
+              },
+              "@oqty": 1,
+              "@oaddr": "Thamel, Kathmandu"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000000-0000-0000-0000-000000000003",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-2025-002",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "rohan_vibes",
+              "@oseller": "bikash_foods",
+              "@oproduct": "Momo Masala Spice Pack",
+              "@ototal": 760,
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "shipped"
+              },
+              "@oqty": 2,
+              "@oaddr": "Rangeli, Morang, Biratnagar"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000000-0000-0000-0000-000000000004",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-2025-003",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "aarav_sharma",
+              "@oseller": "sita_crafts",
+              "@oproduct": "Handwoven Dhaka Scarf",
+              "@ototal": 1200,
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "confirmed"
+              },
+              "@oqty": 1,
+              "@oaddr": "Baluwatar, Kathmandu"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1000000-0000-0000-0000-000000000005",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-2025-004",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "rohan_vibes",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Pashmina Wool Shawl — Premium",
+              "@ototal": 7000,
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              },
+              "@oqty": 2,
+              "@oaddr": "Biratnagar-12, Province 1"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b0fd9960-41be-4ee0-bb8d-e4bf89a4417b",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-4WFC57-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "aarav_sharma",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Dhaka Topi — Traditional Nepali Hat",
+              "@ototal": 850,
+              "@oqty": 1,
+              "@oaddr": "ygyg",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "fe798892-c92e-4c30-aa02-2b16f9e5d135",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-40CM7D-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "aarav_sharma",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Pashmina Wool Shawl — Premium",
+              "@ototal": 3500,
+              "@oqty": 1,
+              "@oaddr": "jhuhuh",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "dcc31ef8-a6dd-4f53-8139-d34c71007b8e",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-40CM7D-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "aarav_sharma",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Dhaka Topi — Traditional Nepali Hat",
+              "@ototal": 850,
+              "@oqty": 1,
+              "@oaddr": "jhuhuh",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4d0f1a7d-b4fe-4c81-9d57-77979ff6d890",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-WSYYK6-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "demo_customer",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Pashmina Shawl — Limited",
+              "@ototal": 2800,
+              "@oqty": 1,
+              "@oaddr": "yggfftf",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "d1b64431-7cf4-4e44-9682-c8a9c5016801",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-KBRWP3-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "demo_customer",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Dhaka Fabric Roll 2m",
+              "@ototal": 850,
+              "@oqty": 1,
+              "@oaddr": "yjhb",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "52f9d52d-ecad-4574-a50f-2f593f951331",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-0FDZTJ4Z-bikash_foods"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "demo_customer",
+              "@oseller": "bikash_foods",
+              "@oproduct": "Samay Baji Complete Kit",
+              "@ototal": 2400,
+              "@oqty": 2,
+              "@oaddr": "Kathmandu, n",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "7eb4379b-87fb-4efa-a195-eb83af1a0c31",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-0FDZTJ4Z-bikash_foods"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "demo_customer",
+              "@oseller": "bikash_foods",
+              "@oproduct": "Momo Masala Spice Pack",
+              "@ototal": 380,
+              "@oqty": 1,
+              "@oaddr": "Kathmandu, n",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "4d5a4de4-99c8-468c-8cec-957e53a633fc",
+            "text": {
+              "ops": [
+                {
+                  "insert": "ORD-0FDZTJ4Z-priya_fashion"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": null,
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@ocustomer": "demo_customer",
+              "@oseller": "priya_fashion",
+              "@oproduct": "Premium Pashmina Shawl",
+              "@ototal": 3500,
+              "@oqty": 1,
+              "@oaddr": "Kathmandu, n",
+              "@ostatus": {
+                "type": "Select",
+                "optionId": "pending"
+              }
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "fields": {
+      "@ocustomer": {
+        "displayName": "Customer",
+        "type": "string"
+      },
+      "@oseller": {
+        "displayName": "Seller",
+        "type": "string"
+      },
+      "@oproduct": {
+        "displayName": "Product",
+        "type": "string"
+      },
+      "@ototal": {
+        "displayName": "Total (NPR)",
+        "type": "number",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "currency",
+          "config": {
+            "type": "standard",
+            "code": "NPR"
+          }
+        }
+      },
+      "@ostatus": {
+        "displayName": "Status",
+        "type": "Select",
+        "options": {
+          "pending": {
+            "id": "pending",
+            "name": "Pending",
+            "rank": "0",
+            "color": "#F59E0B"
+          },
+          "confirmed": {
+            "id": "confirmed",
+            "name": "Confirmed",
+            "rank": "1",
+            "color": "#3B82F6"
+          },
+          "shipped": {
+            "id": "shipped",
+            "name": "Shipped",
+            "rank": "2",
+            "color": "#8B5CF6"
+          },
+          "delivered": {
+            "id": "delivered",
+            "name": "Delivered",
+            "rank": "3",
+            "color": "#059669"
+          },
+          "cancelled": {
+            "id": "cancelled",
+            "name": "Cancelled",
+            "rank": "4",
+            "color": "#DC2626"
+          }
+        }
+      },
+      "@oqty": {
+        "displayName": "Quantity",
+        "type": "number",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@oaddr": {
+        "displayName": "Delivery Address",
+        "type": "string"
+      },
+      "@odate": {
+        "type": "DateTime",
+        "title": "Order Date"
+      }
+    },
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ocustomer": {
+            "id": "/attributes/@ocustomer",
+            "fieldPath": "/attributes/@ocustomer",
+            "rank": "z"
+          },
+          "/attributes/@oseller": {
+            "id": "/attributes/@oseller",
+            "fieldPath": "/attributes/@oseller",
+            "rank": "zV"
+          },
+          "/attributes/@oproduct": {
+            "id": "/attributes/@oproduct",
+            "fieldPath": "/attributes/@oproduct",
+            "rank": "zk"
+          },
+          "/attributes/@ototal": {
+            "id": "/attributes/@ototal",
+            "fieldPath": "/attributes/@ototal",
+            "rank": "zs"
+          },
+          "/attributes/@ostatus": {
+            "id": "/attributes/@ostatus",
+            "fieldPath": "/attributes/@ostatus",
+            "rank": "zw"
+          },
+          "/attributes/@oqty": {
+            "id": "/attributes/@oqty",
+            "fieldPath": "/attributes/@oqty",
+            "rank": "zy"
+          },
+          "/attributes/@oaddr": {
+            "id": "/attributes/@oaddr",
+            "fieldPath": "/attributes/@oaddr",
+            "rank": "zz"
+          },
+          "/attributes/@odate": {
+            "id": "/attributes/@odate",
+            "fieldPath": "/attributes/@odate",
+            "rank": "zzV"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ocustomer": {
+            "id": "/attributes/@ocustomer",
+            "fieldPath": "/attributes/@ocustomer",
+            "rank": "z"
+          },
+          "/attributes/@oseller": {
+            "id": "/attributes/@oseller",
+            "fieldPath": "/attributes/@oseller",
+            "rank": "zV"
+          },
+          "/attributes/@oproduct": {
+            "id": "/attributes/@oproduct",
+            "fieldPath": "/attributes/@oproduct",
+            "rank": "zk"
+          },
+          "/attributes/@ototal": {
+            "id": "/attributes/@ototal",
+            "fieldPath": "/attributes/@ototal",
+            "rank": "zs"
+          },
+          "/attributes/@ostatus": {
+            "id": "/attributes/@ostatus",
+            "fieldPath": "/attributes/@ostatus",
+            "rank": "zw"
+          },
+          "/attributes/@oqty": {
+            "id": "/attributes/@oqty",
+            "fieldPath": "/attributes/@oqty",
+            "rank": "zy"
+          },
+          "/attributes/@oaddr": {
+            "id": "/attributes/@oaddr",
+            "fieldPath": "/attributes/@oaddr",
+            "rank": "zz"
+          },
+          "/attributes/@odate": {
+            "id": "/attributes/@odate",
+            "fieldPath": "/attributes/@odate",
+            "rank": "zzV"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ocustomer": {
+            "id": "/attributes/@ocustomer",
+            "fieldPath": "/attributes/@ocustomer",
+            "rank": "z"
+          },
+          "/attributes/@oseller": {
+            "id": "/attributes/@oseller",
+            "fieldPath": "/attributes/@oseller",
+            "rank": "zV"
+          },
+          "/attributes/@oproduct": {
+            "id": "/attributes/@oproduct",
+            "fieldPath": "/attributes/@oproduct",
+            "rank": "zk"
+          },
+          "/attributes/@ototal": {
+            "id": "/attributes/@ototal",
+            "fieldPath": "/attributes/@ototal",
+            "rank": "zs"
+          },
+          "/attributes/@ostatus": {
+            "id": "/attributes/@ostatus",
+            "fieldPath": "/attributes/@ostatus",
+            "rank": "zw"
+          },
+          "/attributes/@oqty": {
+            "id": "/attributes/@oqty",
+            "fieldPath": "/attributes/@oqty",
+            "rank": "zy"
+          },
+          "/attributes/@oaddr": {
+            "id": "/attributes/@oaddr",
+            "fieldPath": "/attributes/@oaddr",
+            "rank": "zz"
+          },
+          "/attributes/@odate": {
+            "id": "/attributes/@odate",
+            "fieldPath": "/attributes/@odate",
+            "rank": "zzV"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@ocustomer": {
+            "id": "/attributes/@ocustomer",
+            "fieldPath": "/attributes/@ocustomer",
+            "rank": "z"
+          },
+          "/attributes/@oseller": {
+            "id": "/attributes/@oseller",
+            "fieldPath": "/attributes/@oseller",
+            "rank": "zV"
+          },
+          "/attributes/@oproduct": {
+            "id": "/attributes/@oproduct",
+            "fieldPath": "/attributes/@oproduct",
+            "rank": "zk"
+          },
+          "/attributes/@ototal": {
+            "id": "/attributes/@ototal",
+            "fieldPath": "/attributes/@ototal",
+            "rank": "zs"
+          },
+          "/attributes/@ostatus": {
+            "id": "/attributes/@ostatus",
+            "fieldPath": "/attributes/@ostatus",
+            "rank": "zw"
+          },
+          "/attributes/@oqty": {
+            "id": "/attributes/@oqty",
+            "fieldPath": "/attributes/@oqty",
+            "rank": "zy"
+          },
+          "/attributes/@oaddr": {
+            "id": "/attributes/@oaddr",
+            "fieldPath": "/attributes/@oaddr",
+            "rank": "zz"
+          },
+          "/attributes/@odate": {
+            "id": "/attributes/@odate",
+            "fieldPath": "/attributes/@odate",
+            "rank": "zzV"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@ocustomer": {
+            "id": "/attributes/@ocustomer",
+            "fieldPath": "/attributes/@ocustomer",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@oseller": {
+            "id": "/attributes/@oseller",
+            "fieldPath": "/attributes/@oseller",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@oproduct": {
+            "id": "/attributes/@oproduct",
+            "fieldPath": "/attributes/@oproduct",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@ototal": {
+            "id": "/attributes/@ototal",
+            "fieldPath": "/attributes/@ototal",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@ostatus": {
+            "id": "/attributes/@ostatus",
+            "fieldPath": "/attributes/@ostatus",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@oqty": {
+            "id": "/attributes/@oqty",
+            "fieldPath": "/attributes/@oqty",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@oaddr": {
+            "id": "/attributes/@oaddr",
+            "fieldPath": "/attributes/@oaddr",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@odate": {
+            "id": "/attributes/@odate",
+            "fieldPath": "/attributes/@odate",
+            "rank": "zzV",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@ocustomer": {
+            "id": "/attributes/@ocustomer",
+            "fieldPath": "/attributes/@ocustomer",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@oseller": {
+            "id": "/attributes/@oseller",
+            "fieldPath": "/attributes/@oseller",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@oproduct": {
+            "id": "/attributes/@oproduct",
+            "fieldPath": "/attributes/@oproduct",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@ototal": {
+            "id": "/attributes/@ototal",
+            "fieldPath": "/attributes/@ototal",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@ostatus": {
+            "id": "/attributes/@ostatus",
+            "fieldPath": "/attributes/@ostatus",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@oqty": {
+            "id": "/attributes/@oqty",
+            "fieldPath": "/attributes/@oqty",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@oaddr": {
+            "id": "/attributes/@oaddr",
+            "fieldPath": "/attributes/@oaddr",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@odate": {
+            "id": "/attributes/@odate",
+            "fieldPath": "/attributes/@odate",
+            "rank": "zzV",
+            "hidden": false
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "board",
+    "avatar": {
+      "type": "emoji",
+      "value": "✒️"
+    }
+  }
+}

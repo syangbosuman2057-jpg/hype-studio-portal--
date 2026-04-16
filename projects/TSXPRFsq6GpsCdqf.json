@@ -1,0 +1,1100 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "b1000000-0000-0000-0000-000000000001",
+        "text": {
+          "ops": [
+            {
+              "insert": "Videos Feed"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "b1000000-0000-0000-0000-000000000002",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Dhaka Topi Collection 2025 🎩",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@vtitle": "Dhaka Topi Collection 2025 🎩",
+              "@vseller": "priya_fashion",
+              "@vdesc": "Check out our amazing new traditional Nepali Dhaka Topi collection! Perfect for every occasion. Shop link in bio!",
+              "@vcategory": {
+                "type": "Select",
+                "optionId": "fashion"
+              },
+              "@vlikes": 12400,
+              "@vcomments": 342,
+              "@vshares": 890,
+              "@vproduct": "prod-001"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b1000000-0000-0000-0000-000000000003",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Newari Samay Baji Recipe 🍲",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@vtitle": "Newari Samay Baji Recipe 🍲",
+              "@vseller": "bikash_foods",
+              "@vdesc": "Traditional Newari feast — samay baji spice kit now available. Taste of Bhaktapur delivered to your door!",
+              "@vcategory": {
+                "type": "Select",
+                "optionId": "food"
+              },
+              "@vlikes": 28900,
+              "@vcomments": 1205,
+              "@vshares": 3400,
+              "@vproduct": "prod-002"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b1000000-0000-0000-0000-000000000004",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Handwoven Dhaka Fabric Art 🧶",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@vtitle": "Handwoven Dhaka Fabric Art 🧶",
+              "@vseller": "sita_crafts",
+              "@vdesc": "Beautiful handmade Dhaka fabric — traditional Nepali weaving passed down generations. Each piece unique!",
+              "@vcategory": {
+                "type": "Select",
+                "optionId": "crafts"
+              },
+              "@vlikes": 9800,
+              "@vcomments": 567,
+              "@vshares": 1230,
+              "@vproduct": "prod-003"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b1000000-0000-0000-0000-000000000005",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Pokhara Sunrise Hike Vlog 🏔️",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@vtitle": "Pokhara Sunrise Hike Vlog 🏔️",
+              "@vseller": "sita_crafts",
+              "@vdesc": "Morning hike to Sarangkot — the colors are unreal! Grab our handmade travel accessories for your next adventure.",
+              "@vcategory": {
+                "type": "Select",
+                "optionId": "travel"
+              },
+              "@vlikes": 45200,
+              "@vcomments": 2100,
+              "@vshares": 8900,
+              "@vproduct": "prod-004"
+            },
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "b1000000-0000-0000-0000-000000000006",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Momo Making Challenge 🥟",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": false,
+            "attributes": {
+              "@vtitle": "Momo Making Challenge 🥟",
+              "@vseller": "bikash_foods",
+              "@vdesc": "Who can make the perfect momo? Try our authentic Nepali momo masala spice pack! Link in profile.",
+              "@vcategory": {
+                "type": "Select",
+                "optionId": "food"
+              },
+              "@vlikes": 67800,
+              "@vcomments": 4500,
+              "@vshares": 12300,
+              "@vproduct": "prod-005"
+            },
+            "children": []
+          }
+        ]
+      }
+    ],
+    "fields": {
+      "@vtitle": {
+        "displayName": "Title",
+        "type": "string"
+      },
+      "@vdate": {
+        "type": "DateTime",
+        "title": "Posted Date"
+      },
+      "@vlikes": {
+        "displayName": "Likes",
+        "type": "number",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@vdesc": {
+        "displayName": "Description",
+        "type": "string"
+      },
+      "@vshares": {
+        "displayName": "Shares",
+        "type": "number",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@vcomments": {
+        "displayName": "Comments",
+        "type": "number",
+        "render": {
+          "type": "text"
+        },
+        "format": {
+          "type": "decimal"
+        }
+      },
+      "@vcategory": {
+        "displayName": "Category",
+        "type": "Select",
+        "options": {
+          "fashion": {
+            "id": "fashion",
+            "name": "Fashion",
+            "rank": "0",
+            "color": "#EC4899"
+          },
+          "food": {
+            "id": "food",
+            "name": "Food",
+            "rank": "1",
+            "color": "#F97316"
+          },
+          "crafts": {
+            "id": "crafts",
+            "name": "Crafts",
+            "rank": "2",
+            "color": "#8B5CF6"
+          },
+          "tech": {
+            "id": "tech",
+            "name": "Tech",
+            "rank": "3",
+            "color": "#3B82F6"
+          },
+          "lifestyle": {
+            "id": "lifestyle",
+            "name": "Lifestyle",
+            "rank": "4",
+            "color": "#10B981"
+          },
+          "travel": {
+            "id": "travel",
+            "name": "Travel",
+            "rank": "5",
+            "color": "#F59E0B"
+          }
+        }
+      },
+      "@vseller": {
+        "displayName": "Seller Username",
+        "type": "string"
+      },
+      "@vproduct": {
+        "displayName": "Linked Product ID",
+        "type": "string"
+      }
+    },
+    "views": {
+      "list": {
+        "id": "list",
+        "type": "list",
+        "rank": "A",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@vtitle": {
+            "id": "/attributes/@vtitle",
+            "fieldPath": "/attributes/@vtitle",
+            "rank": "z"
+          },
+          "/attributes/@vseller": {
+            "id": "/attributes/@vseller",
+            "fieldPath": "/attributes/@vseller",
+            "rank": "zV"
+          },
+          "/attributes/@vdesc": {
+            "id": "/attributes/@vdesc",
+            "fieldPath": "/attributes/@vdesc",
+            "rank": "zk"
+          },
+          "/attributes/@vcategory": {
+            "id": "/attributes/@vcategory",
+            "fieldPath": "/attributes/@vcategory",
+            "rank": "zs"
+          },
+          "/attributes/@vlikes": {
+            "id": "/attributes/@vlikes",
+            "fieldPath": "/attributes/@vlikes",
+            "rank": "zw"
+          },
+          "/attributes/@vcomments": {
+            "id": "/attributes/@vcomments",
+            "fieldPath": "/attributes/@vcomments",
+            "rank": "zy"
+          },
+          "/attributes/@vshares": {
+            "id": "/attributes/@vshares",
+            "fieldPath": "/attributes/@vshares",
+            "rank": "zz"
+          },
+          "/attributes/@vproduct": {
+            "id": "/attributes/@vproduct",
+            "fieldPath": "/attributes/@vproduct",
+            "rank": "zzV"
+          },
+          "/attributes/@vdate": {
+            "id": "/attributes/@vdate",
+            "fieldPath": "/attributes/@vdate",
+            "rank": "zzk"
+          }
+        }
+      },
+      "board": {
+        "id": "board",
+        "type": "board",
+        "rank": "B",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@vtitle": {
+            "id": "/attributes/@vtitle",
+            "fieldPath": "/attributes/@vtitle",
+            "rank": "z"
+          },
+          "/attributes/@vseller": {
+            "id": "/attributes/@vseller",
+            "fieldPath": "/attributes/@vseller",
+            "rank": "zV"
+          },
+          "/attributes/@vdesc": {
+            "id": "/attributes/@vdesc",
+            "fieldPath": "/attributes/@vdesc",
+            "rank": "zk"
+          },
+          "/attributes/@vcategory": {
+            "id": "/attributes/@vcategory",
+            "fieldPath": "/attributes/@vcategory",
+            "rank": "zs"
+          },
+          "/attributes/@vlikes": {
+            "id": "/attributes/@vlikes",
+            "fieldPath": "/attributes/@vlikes",
+            "rank": "zw"
+          },
+          "/attributes/@vcomments": {
+            "id": "/attributes/@vcomments",
+            "fieldPath": "/attributes/@vcomments",
+            "rank": "zy"
+          },
+          "/attributes/@vshares": {
+            "id": "/attributes/@vshares",
+            "fieldPath": "/attributes/@vshares",
+            "rank": "zz"
+          },
+          "/attributes/@vproduct": {
+            "id": "/attributes/@vproduct",
+            "fieldPath": "/attributes/@vproduct",
+            "rank": "zzV"
+          },
+          "/attributes/@vdate": {
+            "id": "/attributes/@vdate",
+            "fieldPath": "/attributes/@vdate",
+            "rank": "zzk"
+          }
+        }
+      },
+      "mindmap": {
+        "id": "mindmap",
+        "type": "mindmap",
+        "rank": "D",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@vtitle": {
+            "id": "/attributes/@vtitle",
+            "fieldPath": "/attributes/@vtitle",
+            "rank": "z"
+          },
+          "/attributes/@vseller": {
+            "id": "/attributes/@vseller",
+            "fieldPath": "/attributes/@vseller",
+            "rank": "zV"
+          },
+          "/attributes/@vdesc": {
+            "id": "/attributes/@vdesc",
+            "fieldPath": "/attributes/@vdesc",
+            "rank": "zk"
+          },
+          "/attributes/@vcategory": {
+            "id": "/attributes/@vcategory",
+            "fieldPath": "/attributes/@vcategory",
+            "rank": "zs"
+          },
+          "/attributes/@vlikes": {
+            "id": "/attributes/@vlikes",
+            "fieldPath": "/attributes/@vlikes",
+            "rank": "zw"
+          },
+          "/attributes/@vcomments": {
+            "id": "/attributes/@vcomments",
+            "fieldPath": "/attributes/@vcomments",
+            "rank": "zy"
+          },
+          "/attributes/@vshares": {
+            "id": "/attributes/@vshares",
+            "fieldPath": "/attributes/@vshares",
+            "rank": "zz"
+          },
+          "/attributes/@vproduct": {
+            "id": "/attributes/@vproduct",
+            "fieldPath": "/attributes/@vproduct",
+            "rank": "zzV"
+          },
+          "/attributes/@vdate": {
+            "id": "/attributes/@vdate",
+            "fieldPath": "/attributes/@vdate",
+            "rank": "zzk"
+          }
+        }
+      },
+      "orgchart": {
+        "id": "orgchart",
+        "type": "orgchart",
+        "rank": "E",
+        "displayedFields": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7"
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A"
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F"
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N"
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V"
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c"
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k"
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s"
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t"
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u"
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF"
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF"
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x"
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y"
+          },
+          "/attributes/@vtitle": {
+            "id": "/attributes/@vtitle",
+            "fieldPath": "/attributes/@vtitle",
+            "rank": "z"
+          },
+          "/attributes/@vseller": {
+            "id": "/attributes/@vseller",
+            "fieldPath": "/attributes/@vseller",
+            "rank": "zV"
+          },
+          "/attributes/@vdesc": {
+            "id": "/attributes/@vdesc",
+            "fieldPath": "/attributes/@vdesc",
+            "rank": "zk"
+          },
+          "/attributes/@vcategory": {
+            "id": "/attributes/@vcategory",
+            "fieldPath": "/attributes/@vcategory",
+            "rank": "zs"
+          },
+          "/attributes/@vlikes": {
+            "id": "/attributes/@vlikes",
+            "fieldPath": "/attributes/@vlikes",
+            "rank": "zw"
+          },
+          "/attributes/@vcomments": {
+            "id": "/attributes/@vcomments",
+            "fieldPath": "/attributes/@vcomments",
+            "rank": "zy"
+          },
+          "/attributes/@vshares": {
+            "id": "/attributes/@vshares",
+            "fieldPath": "/attributes/@vshares",
+            "rank": "zz"
+          },
+          "/attributes/@vproduct": {
+            "id": "/attributes/@vproduct",
+            "fieldPath": "/attributes/@vproduct",
+            "rank": "zzV"
+          },
+          "/attributes/@vdate": {
+            "id": "/attributes/@vdate",
+            "fieldPath": "/attributes/@vdate",
+            "rank": "zzk"
+          }
+        }
+      },
+      "gantt": {
+        "id": "gantt",
+        "type": "gantt",
+        "rank": "F",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@vtitle": {
+            "id": "/attributes/@vtitle",
+            "fieldPath": "/attributes/@vtitle",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@vseller": {
+            "id": "/attributes/@vseller",
+            "fieldPath": "/attributes/@vseller",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@vdesc": {
+            "id": "/attributes/@vdesc",
+            "fieldPath": "/attributes/@vdesc",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@vcategory": {
+            "id": "/attributes/@vcategory",
+            "fieldPath": "/attributes/@vcategory",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@vlikes": {
+            "id": "/attributes/@vlikes",
+            "fieldPath": "/attributes/@vlikes",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@vcomments": {
+            "id": "/attributes/@vcomments",
+            "fieldPath": "/attributes/@vcomments",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@vshares": {
+            "id": "/attributes/@vshares",
+            "fieldPath": "/attributes/@vshares",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@vproduct": {
+            "id": "/attributes/@vproduct",
+            "fieldPath": "/attributes/@vproduct",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@vdate": {
+            "id": "/attributes/@vdate",
+            "fieldPath": "/attributes/@vdate",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      },
+      "table": {
+        "id": "table",
+        "type": "table",
+        "rank": "V",
+        "columns": {
+          "/text": {
+            "id": "/text",
+            "fieldPath": "/text",
+            "rank": "7",
+            "width": 480
+          },
+          "/attributes/agent": {
+            "id": "/attributes/agent",
+            "fieldPath": "/attributes/agent",
+            "rank": "A",
+            "hidden": true
+          },
+          "/attributes/date": {
+            "id": "/attributes/date",
+            "fieldPath": "/attributes/date",
+            "rank": "F",
+            "hidden": true
+          },
+          "/attributes/assignee": {
+            "id": "/attributes/assignee",
+            "fieldPath": "/attributes/assignee",
+            "rank": "N",
+            "hidden": true
+          },
+          "/attributes/comment": {
+            "id": "/attributes/comment",
+            "fieldPath": "/attributes/comment",
+            "rank": "V",
+            "hidden": true
+          },
+          "/attributes/reaction": {
+            "id": "/attributes/reaction",
+            "fieldPath": "/attributes/reaction",
+            "rank": "c",
+            "hidden": true
+          },
+          "/attributes/timer": {
+            "id": "/attributes/timer",
+            "fieldPath": "/attributes/timer",
+            "rank": "k",
+            "hidden": true
+          },
+          "/attributes/media": {
+            "id": "/attributes/media",
+            "fieldPath": "/attributes/media",
+            "rank": "s",
+            "hidden": true
+          },
+          "/attributes/created/at": {
+            "id": "/attributes/created/at",
+            "fieldPath": "/attributes/created/at",
+            "rank": "t",
+            "hidden": true
+          },
+          "/attributes/created/by": {
+            "id": "/attributes/created/by",
+            "fieldPath": "/attributes/created/by",
+            "rank": "u",
+            "hidden": true
+          },
+          "/attributes/updated/at": {
+            "id": "/attributes/updated/at",
+            "fieldPath": "/attributes/updated/at",
+            "rank": "vF",
+            "hidden": true
+          },
+          "/attributes/updated/by": {
+            "id": "/attributes/updated/by",
+            "fieldPath": "/attributes/updated/by",
+            "rank": "wF",
+            "hidden": true
+          },
+          "/attributes/completed/at": {
+            "id": "/attributes/completed/at",
+            "fieldPath": "/attributes/completed/at",
+            "rank": "x",
+            "hidden": true
+          },
+          "/attributes/completed/by": {
+            "id": "/attributes/completed/by",
+            "fieldPath": "/attributes/completed/by",
+            "rank": "y",
+            "hidden": true
+          },
+          "/attributes/@vtitle": {
+            "id": "/attributes/@vtitle",
+            "fieldPath": "/attributes/@vtitle",
+            "rank": "z",
+            "hidden": false
+          },
+          "/attributes/@vseller": {
+            "id": "/attributes/@vseller",
+            "fieldPath": "/attributes/@vseller",
+            "rank": "zV",
+            "hidden": false
+          },
+          "/attributes/@vdesc": {
+            "id": "/attributes/@vdesc",
+            "fieldPath": "/attributes/@vdesc",
+            "rank": "zk",
+            "hidden": false
+          },
+          "/attributes/@vcategory": {
+            "id": "/attributes/@vcategory",
+            "fieldPath": "/attributes/@vcategory",
+            "rank": "zs",
+            "hidden": false
+          },
+          "/attributes/@vlikes": {
+            "id": "/attributes/@vlikes",
+            "fieldPath": "/attributes/@vlikes",
+            "rank": "zw",
+            "hidden": false
+          },
+          "/attributes/@vcomments": {
+            "id": "/attributes/@vcomments",
+            "fieldPath": "/attributes/@vcomments",
+            "rank": "zy",
+            "hidden": false
+          },
+          "/attributes/@vshares": {
+            "id": "/attributes/@vshares",
+            "fieldPath": "/attributes/@vshares",
+            "rank": "zz",
+            "hidden": false
+          },
+          "/attributes/@vproduct": {
+            "id": "/attributes/@vproduct",
+            "fieldPath": "/attributes/@vproduct",
+            "rank": "zzV",
+            "hidden": false
+          },
+          "/attributes/@vdate": {
+            "id": "/attributes/@vdate",
+            "fieldPath": "/attributes/@vdate",
+            "rank": "zzk",
+            "hidden": false
+          }
+        }
+      }
+    }
+  },
+  "preferences": {
+    "defaultView": "table",
+    "avatar": {
+      "type": "emoji",
+      "value": "💼"
+    }
+  }
+}

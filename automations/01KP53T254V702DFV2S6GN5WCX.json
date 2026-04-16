@@ -1,0 +1,91 @@
+{
+  "version": "2",
+  "flowTitle": "New Order → Seller Notification",
+  "trigger": {
+    "valid": true,
+    "type": "WEBHOOK",
+    "settings": {
+      "input": {
+        "type": "object",
+        "properties": {
+          "total": {
+            "type": "number"
+          },
+          "seller": {
+            "type": "string",
+            "description": "Input for seller"
+          },
+          "address": {
+            "type": "string",
+            "description": "Input for address"
+          },
+          "orderId": {
+            "type": "string",
+            "description": "Input for orderId"
+          },
+          "product": {
+            "type": "string",
+            "description": "Input for product"
+          },
+          "customer": {
+            "type": "string",
+            "description": "Input for customer"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "actions": [
+    {
+      "name": "a1b2c300-0000-0000-0000-000000000001",
+      "valid": false,
+      "displayName": "Add Order to Orders & Cart Project",
+      "type": "PIECE",
+      "settings": {
+        "pieceName": "@taskade/automade-internalpiece-taskade",
+        "pieceVersion": "1.0.0",
+        "actionName": "task.create",
+        "input": {
+          "content": "{{ trigger[\"body\"][\"orderId\"] }}",
+          "position": "afterbegin",
+          "projectId": {
+            "type": "flow-template-variable-input-type",
+            "id": "U24iD1Je5AKsLN3y"
+          }
+        }
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "http_response",
+      "body": {
+        "type": "json",
+        "data": {
+          "type": "basic",
+          "payload": [
+            {
+              "success": "true"
+            },
+            {
+              "message": "Order {{ trigger[\"body\"][\"orderId\"] }} placed successfully for {{ trigger[\"body\"][\"customer\"] }}!"
+            },
+            {
+              "orderId": "{{ trigger[\"body\"][\"orderId\"] }}"
+            }
+          ]
+        }
+      },
+      "key": "trigger"
+    }
+  ],
+  "variables": {
+    "U24iD1Je5AKsLN3y": {
+      "id": "U24iD1Je5AKsLN3y",
+      "rank": "V",
+      "type": "string",
+      "format": "taskade-project-id"
+    }
+  }
+}

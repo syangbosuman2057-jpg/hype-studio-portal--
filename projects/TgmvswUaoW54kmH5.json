@@ -1,0 +1,573 @@
+{
+  "root": {
+    "type": "root",
+    "children": [
+      {
+        "type": "text",
+        "id": "d187e4a0-e00d-4999-9821-960c6ab5b9ee",
+        "text": {
+          "ops": [
+            {
+              "insert": "Nepalese Hype — Build Progress"
+            },
+            {
+              "insert": "\n",
+              "attributes": {
+                "paragraph": true
+              }
+            }
+          ]
+        },
+        "format": null,
+        "collapsed": false,
+        "completed": false,
+        "children": [
+          {
+            "type": "text",
+            "id": "ed23ccfb-65b4-4085-b0b9-68aeecc0cd97",
+            "text": {
+              "ops": [
+                {
+                  "insert": "✅ STATUS: "
+                },
+                {
+                  "insert": "V3 ",
+                  "attributes": {}
+                },
+                {
+                  "insert": "COMPLETE — "
+                },
+                {
+                  "insert": "Fu",
+                  "attributes": {}
+                },
+                {
+                  "insert": "ll "
+                },
+                {
+                  "insert": "socia",
+                  "attributes": {}
+                },
+                {
+                  "insert": "l"
+                },
+                {
+                  "insert": " comm",
+                  "attributes": {}
+                },
+                {
+                  "insert": "er"
+                },
+                {
+                  "insert": "ce platform",
+                  "attributes": {}
+                },
+                {
+                  "insert": " built"
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "checkbox",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": true,
+            "children": []
+          },
+          {
+            "type": "text",
+            "id": "5262cb8a-3697-481a-9367-56fc8fe64c32",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Project IDs",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": true,
+            "children": [
+              {
+                "type": "text",
+                "id": "3b6759c9-852a-4521-ae01-88e4e9015ab8",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Users & Profiles: 3T64NhSxjx1WHT9o",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "89cc9c75-b2fc-4646-b8f2-ae22bdae53cd",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Videos Feed: TSXPRFsq6GpsCdqf",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "9b53e445-ae41-4533-988d-13713c9cf279",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Products Catalog: vbKYK3MRAE9UGAd4",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d3e41572-0c20-48a2-8eba-b2f96b0f149a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Orders & Cart: U24iD1Je5AKsLN3y",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "49ec64a4-53d7-44b2-9a30-da3ff590995a",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Seller Dashboard: J4QyPtVXFR568Lt3",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f569b100-bf10-453a-aaaf-cd618f977f5d",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Messages & Chats: 2imxNhr7My7ziHr3",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bcec8ab0-7767-4a4c-b9d2-5e0defd61764",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Shops & Locations: FFEurJ5uaqNyWqDo",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "477b588e-cffa-4bd0-abae-bb12c2b6f20f",
+            "text": {
+              "ops": [
+                {
+                  "insert": "Agent & Automations",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": true,
+            "children": [
+              {
+                "type": "text",
+                "id": "acb84e3b-6ef0-4832-bf68-9911ad8fb139",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Agent ID: 01KP53WKJ6N181NSRZD3HZ2MFH (public)",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4ff9073-e6c4-4557-8756-54af89710a85",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Order Notification Flow: 01KP53T254V702DFV2S6GN5WCX",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "bb757693-597b-425a-adf1-dd3fda5d2bcc",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "Welcome User Flow: 01KP53VDXNBV2GS4GWWGPQHV1T",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567891",
+            "text": {
+              "ops": [
+                {
+                  "insert": "V3 Screens & Stores Added",
+                  "attributes": {}
+                },
+                {
+                  "insert": "\n",
+                  "attributes": {
+                    "paragraph": true
+                  }
+                }
+              ]
+            },
+            "format": {
+              "node": "h2",
+              "children": null
+            },
+            "collapsed": false,
+            "completed": true,
+            "children": [
+              {
+                "type": "text",
+                "id": "b2c3d4e5-f678-90ab-cdef-123456789012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "contentStore.ts — posts, likes, saves, comments, follow",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "c3d4e5f6-7890-abcd-ef12-34567890abcd",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "VideoFeed.tsx — TikTok-style with like/comment/save/product tags",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "d4e5f678-90ab-cdef-1234-567890abcdef",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "UploadScreen.tsx — seller vs customer split, music, filters, product tagging",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "e5f67890-abcd-ef12-3456-7890abcdef01",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "ProfileScreen.tsx — tabs: Videos/Liked/Saved/Followers, settings sheet",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "f6789012-bcde-f123-4567-890abcdef012",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "AuthScreen.tsx — Welcome splash + Customer FREE vs Seller PAID onboarding",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              },
+              {
+                "type": "text",
+                "id": "07890123-cdef-1234-5678-90abcdef0123",
+                "text": {
+                  "ops": [
+                    {
+                      "insert": "DiscoverScreen.tsx — search, trending grid, top sellers, hashtags",
+                      "attributes": {}
+                    },
+                    {
+                      "insert": "\n",
+                      "attributes": {
+                        "paragraph": true
+                      }
+                    }
+                  ]
+                },
+                "format": {
+                  "node": "bullet",
+                  "children": null
+                },
+                "collapsed": false,
+                "completed": true,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "preferences": {
+    "defaultView": "list",
+    "avatar": {
+      "type": "emoji",
+      "value": "📌"
+    }
+  }
+}
